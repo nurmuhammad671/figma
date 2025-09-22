@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+.container {
+    max-width: 1550px;
+    margin: auto;
+    padding: 0px 45px;
+}
+
